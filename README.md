@@ -55,3 +55,5 @@ Support both UTF-8 and default encodings for text files.
 These operations are commonly used for handling file-based data storage in many applications, such as logging, configuration file management, or processing user input.
 
 OUTPUT OF THE TASK :
+
+![Image](https://github.com/user-attachments/assets/0081bc93-e2bd-4c95-aa52-0b643142c9ac)
